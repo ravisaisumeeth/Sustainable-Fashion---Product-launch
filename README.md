@@ -114,13 +114,6 @@ BelleVue is poised to grow by targeting consumers who demand **style with sustai
 
 ---
 
-## 👥 Contributors
-
-- Sai Sumeeth Ravi  
-- [Add other team members here]
-
----
-
 ## 📎 Files Included
 
 - 📄 `Sustainable Fashion - Marketing Plan.pdf` – Full strategy  
